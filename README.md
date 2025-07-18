@@ -25,3 +25,18 @@ Statistical Summary: Used .describe() and .info() for dataset overview.
 Visualizations & Analysis:
 Histograms for numerical features(Univariate Plots).
 Various plots for bivariate analysis.
+
+## Insights from SQL Queries
+High Performers have an average study time of 7 hours.
+8 hour sleep is giving highest performance.
+Students who did not score good early are also less likely to score later.
+Students involved in extracurricular activities have slightly less performance index.
+Best combination is 7 hours sleep and 9 hours study
+
+
+## Insights from EDA
+Data is mostly clean,no duplicate or null values.
+More study hours lead to more performance.
+The more the previous score,more is the performance index.
+Sleep of 8-9 hours lead to more performance.
+
